@@ -1,10 +1,3 @@
-    @@   @  @  @  @  @@@  @@@    @@   @
-   @@@@  @  @  @  @   @   @  @  @@@@  @
-   @  @  @  @  @@@@   @   @  @  @  @  @ 
-   @@@@  @  @  @@@@   @   @@@   @@@@  @ 
-   @  @  @  @  @  @   @   @  @  @  @  @
-   @  @   @@   @  @  @@@  @  @  @  @  @@@ TE@M
-
 Besoin d'aide :
 https://www.avhiral.com/forum
 https://discord.gg/GP6p6jSH

@@ -19,9 +19,17 @@ Save "avhiral_bot_coinbase_linux_v1.5.py"
 Fonction:
 
 python3 avhiral_bot_coinbase_linux_v1.6.py --start 
+
+
 python3 avhiral_bot_coinbase_linux_v1.6.py --status
+
+
 python3 avhiral_bot_coinbase_linux_v1.6.py --monitor
+
+
 python3 avhiral_bot_coinbase_linux_v1.6.py --monitorlive
+
+
 python3 avhiral_bot_coinbase_linux_v1.6.py --stop
 
 DON PAYPAL : https://www.paypal.com/donate/?hosted_button_id=FSX7RHUT4BDRY

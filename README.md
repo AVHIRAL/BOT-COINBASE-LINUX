@@ -1,9 +1,4 @@
-    @@   @  @  @  @  @@@  @@@    @@   @
-   @@@@  @  @  @  @   @   @  @  @@@@  @
-   @  @  @  @  @@@@   @   @  @  @  @  @ 
-   @@@@  @  @  @@@@   @   @@@   @@@@  @ 
-   @  @  @  @  @  @   @   @  @  @  @  @
-   @  @   @@   @  @  @@@  @  @  @  @  @@@ TE@M
+AVHIRAL - TE@M
 
 BOT COINBASE V1.6 TRADING 2024 PRIVATE - CODE : DAVID PILATO
 
